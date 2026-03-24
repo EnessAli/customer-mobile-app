@@ -1,6 +1,6 @@
-# depoin-customer
+# customer-app
 
-**Depoin** — A cross-platform Flutter e-commerce marketplace application for customers. Provides product discovery, cart management, vendor browsing, reviews, and real-time order tracking.
+**customer-mobile-app** — A cross-platform Flutter e-commerce marketplace application for customers. Provides product discovery, cart management, vendor browsing, reviews, and real-time order tracking.
 
 > The application code is maintained in a private repository. This repository serves as a public showcase.
 
